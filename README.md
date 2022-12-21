@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anagha H C</h1>
-<h3 align="center">On an endless journey of exploring new domains.</h3>
+<h3 align="center">Student | Learner | NITK '25</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anagha-h-c-2221a6235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anagha-h-c-2221a6235" height="30" width="40" /></a>
